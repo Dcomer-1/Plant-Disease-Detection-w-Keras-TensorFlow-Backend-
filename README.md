@@ -8,7 +8,7 @@ Project Overview
 Dataset
 The dataset used for this project includes labeled images of healthy and diseased plant leaves. These images are categorized into various classes, such as specific plant diseases or healthy states. The Dataset Can be found on Kaggle: https://www.kaggle.com/datasets/emmarex/plantdisease
 
-----------------------------
+-----------------------------
 
 Project Structure
 1. Preprocessing and Augmentation
