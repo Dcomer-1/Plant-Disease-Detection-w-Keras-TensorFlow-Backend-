@@ -32,5 +32,5 @@ Loss and accuracy metrics are plotted to evaluate the model’s performance over
 
 **Setup Instructions**
 
-This project has a lot of dependencies so the easiest way to run it would probably be to clone my Kaggle notebook here: https://www.kaggle.com/code/dcamarolive/plant-disease-detection-w-keras and run it that way so it can compile with no issues
+This project has a lot of dependencies so the easiest way to run it would probably be to clone my Kaggle notebook here: https://www.kaggle.com/code/dcamarolive/plant-disease-detection-with-keras and run it that way so it can compile with no issues
 
